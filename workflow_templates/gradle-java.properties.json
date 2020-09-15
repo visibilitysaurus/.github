@@ -6,6 +6,7 @@
         "Java"
     ],
     "filePatterns": [
-        "*.gradle$"
+        "build.gradle$",
+        "settings.gradle$"
     ]
 }
