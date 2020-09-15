@@ -4,9 +4,5 @@
     "iconName": "gradle-icon",
     "categories": [
         "Java"
-    ],
-    "filePatterns": [
-        "build.gradle$",
-        "settings.gradle$"
     ]
 }
