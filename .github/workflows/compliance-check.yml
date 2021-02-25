@@ -1,0 +1,5 @@
+name: compliance-check
+
+on:
+  repository_dispatch:
+    types: [org-workflow-bot]  # <-- requirement to trigger central workflows
