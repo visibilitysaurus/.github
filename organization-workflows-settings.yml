@@ -1,4 +1,0 @@
-workflows_repository: our-organization-workflows
-include_workflows_repository: false
-exclude:
-  repositories:
