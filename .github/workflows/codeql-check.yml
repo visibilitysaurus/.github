@@ -34,10 +34,5 @@ jobs:
       # Override language selection by uncommenting this and choosing your languages
       with:
         languages: javascript, java
-
-    - run: |
-        make bootstrap
-        make release
-
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v1
